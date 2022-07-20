@@ -10,5 +10,5 @@
 * The program’s content should match included sample exactly
 
 
-Estimated Effort: 3hrs
-Actual Effort: 5hrs
+- Estimated Effort: 3hrs
+- Actual Effort: 5hrs
